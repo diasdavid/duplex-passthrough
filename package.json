@@ -19,5 +19,9 @@
   ],
   "bugs": {
     "url": "https://github.com/isaacs/duplex-passthrough/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^4.5.4"
   }
 }
